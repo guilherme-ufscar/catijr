@@ -1,0 +1,151 @@
+cpf,nome,email,idade,cidade,estado,data_ultima_compra,total_gasto,frequencia_compras,forma_pagamento,satisfacao,cliente_ativo
+070.534.578-50,José Pereira,monteirocaua@example.com,56,da Mata de Minas,NJ,2024-01-01,1252.43,28,Débito,2,True
+324.210.249-51,Luiz Felipe Siqueira,pedro-miguelgarcia@example.org,69,Novais,RS,2024-01-04,6476.55,30,Boleto,5,True
+309.232.719-53,Gabriela Nunes,siqueiradavi-lucas@example.net,46,Araújo,SP,2024-01-07,6894.91,29,Débito,3,True
+187.053.494-86,Fernando Teixeira,maria-vitoria55@example.net,32,Aparecida de Monteiro,RI,2024-01-11,5139.24,6,Débito,2,True
+039.117.182-84,Srta. Lívia Rios,bentolopes@example.net,60,Guerra de Minas,PE,2024-01-14,6984.51,35,Boleto,3,True
+424.981.829-26,Gabriel Cardoso,martinsdavi-miguel@example.com,25,Abreu,GO,2024-01-18,4545.4,37,Pix,1,True
+074.466.609-02,Srta. Brenda Pires,andradecaroline@example.com,38,Rocha do Galho,GO,2024-01-21,4800.05,24,Pix,2,False
+596.292.330-88,Alícia Azevedo,luanda-costa@example.com,56,Araújo,PR,2024-01-25,3962.36,29,Boleto,5,True
+472.126.464-07,Alícia Moura,hadassa55@example.com,36,Pastor Verde,RI,2024-01-28,423.69,31,Débito,2,True
+251.925.462-90,Sr. Luan Ferreira,pborges@example.org,40,da Luz da Prata,RS,2024-02-01,1149.44,35,Débito,2,True
+785.191.088-90,Sr. Theo Campos,ryan12@example.com,28,Aragão de Pacheco,PA,2024-02-04,476.58,33,Pix,2,True
+398.454.615-73,Léo Pires,ana-luizacorreia@example.net,28,Sampaio,RI,2024-02-08,5800.41,21,Crédito,2,False
+993.867.749-50,Danilo Azevedo,liamrezende@example.net,41,Carvalho das Pedras,NY,2024-02-11,2966.33,32,Crédito,3,False
+395.376.724-09,Nicole Fogaça,ufreitas@example.com,70,Brito,RN,2024-02-15,4675.42,23,Crédito,1,False
+051.522.047-70,Sophia da Rocha,claramelo@example.org,53,Nogueira de Oliveira,MG,2024-02-18,8186.58,33,Débito,4,True
+529.096.561-01,Bruna das Neves,britosophie@example.com,57,Cardoso das Pedras,AL,2024-02-22,2393.77,3,Débito,2,False
+475.255.341-44,Dr. Diego Martins,sophia23@example.org,41,Novaes Paulista,MS,2024-02-25,3811.37,18,Pix,5,True
+603.859.770-00,Olívia da Conceição,salesalexia@example.org,20,Rocha,RJ,2024-02-28,6848.85,25,Crédito,2,False
+815.371.473-23,Luigi da Costa,theo98@example.com,39,Novaes da Mata,SP,2024-03-03,2213.42,31,Pix,5,False
+412.126.788-50,João Vitor Macedo,caiofreitas@example.net,70,da Cunha da Serra,MG,2024-03-06,877.42,3,Pix,3,True
+578.091.343-96,Davi Lucca Guerra,eduarda43@example.org,19,Macedo dos Dourados,SC,2024-03-10,2749.81,24,Pix,5,False
+873.342.708-94,Cauã Siqueira,ana-luizaabreu@example.org,41,Santos,GO,2024-03-13,1618.75,32,Boleto,4,False
+337.498.941-16,Dr. Samuel Mendonça,juliacampos@example.com,61,Rezende,PB,2024-03-17,8381.34,22,Crédito,1,False
+417.146.774-86,Ana Júlia Freitas,tfreitas@example.net,47,Abreu de Araújo,SE,2024-03-20,7311.46,23,Crédito,5,True
+915.478.872-22,Mariah da Paz,joao48@example.com,55,Moura,SP,2024-03-24,5773.95,2,Boleto,5,True
+422.579.050-91,Sra. Maria Cecília Melo,almeidaemilly@example.net,19,Almeida Verde,RN,2024-03-27,7868.85,27,Boleto,1,False
+277.901.043-65,Bruna Abreu,fernandeshenry@example.com,38,Fogaça do Campo,SC,2024-03-31,7272.31,2,Crédito,4,True
+788.957.986-19,Daniel Guerra,juliana79@example.net,50,Melo,GA,2024-04-03,1841.82,26,Boleto,2,True
+289.861.434-37,Vitor Gabriel Montenegro,fernando56@example.net,29,Freitas,NJ,2024-04-07,8054.52,17,Pix,5,True
+447.394.731-94,Matheus Vasconcelos,livia02@example.net,39,Cardoso do Galho,GA,2024-04-10,4946.21,33,Débito,1,False
+745.961.586-22,Theodoro da Mata,raelsales@example.net,61,da Rocha de Sales,RN,2024-04-14,7305.47,9,Pix,3,True
+784.473.647-04,Giovanna da Cruz,nascimentoelisa@example.com,42,da Cruz do Norte,MS,2024-04-17,8085.6,39,Crédito,1,False
+238.849.696-92,Benjamim Alves,hadassa57@example.com,66,Brito,GO,2024-04-21,2998.43,29,Boleto,3,True
+611.836.736-12,Natália Aparecida,britoana@example.com,44,Lima,MT,2024-04-24,1168.46,26,Débito,4,True
+765.918.033-94,Apollo Alves,ana-livianunes@example.net,59,Fogaça,AL,2024-04-27,2205.83,35,Crédito,2,False
+412.328.120-64,Sr. Kevin Barros,joao-vitorsampaio@example.net,45,da Rocha,PE,2024-05-01,3958.55,25,Boleto,1,False
+102.767.735-51,Bernardo Fonseca,qsantos@example.org,33,Aragão,CA,2024-05-04,7398.53,24,Débito,5,True
+024.103.865-04,Maria Clara Leão,samuelgomes@example.org,32,Campos,FL,2024-05-08,7774.43,13,Débito,4,False
+545.892.975-66,Bernardo Gomes,murilosantos@example.net,64,Rocha de Carvalho,SP,2024-05-11,261.18,7,Boleto,1,False
+685.014.294-14,José Pedro Santos,rjesus@example.net,68,Viana Grande,TN,2024-05-15,4694.58,36,Débito,5,True
+168.685.487-02,Isabella Siqueira,rpereira@example.org,61,Peixoto,CA,2024-05-18,3873.22,20,Crédito,1,False
+586.518.506-38,Heitor Camargo,ojesus@example.com,72,Carvalho,BA,2024-05-22,2154.55,1,Boleto,3,True
+794.738.347-21,Maria Flor Pastor,joanapacheco@example.com,69,Vieira da Praia,GA,2024-05-25,1254.82,8,Pix,1,True
+356.465.193-49,Miguel Leão,oabreu@example.net,74,Araújo,MS,2024-05-29,3171.01,16,Crédito,1,False
+447.132.475-61,Mirella Garcia,vianajosue@example.net,20,Rezende,PA,2024-06-01,8497.61,14,Crédito,1,True
+881.914.858-77,Fernando Pinto,xmachado@example.com,54,Moreira,PE,2024-06-05,3044.19,12,Boleto,4,True
+999.119.148-87,Liz Ribeiro,daparecida@example.com,68,Ribeiro,PR,2024-06-08,4765.36,23,Boleto,1,True
+060.293.333-13,Sra. Amanda Rios,montenegrodavi-miguel@example.com,24,da Rosa,SC,2024-06-12,6386.57,15,Débito,5,False
+800.030.756-13,Ana Fonseca,teixeiralunna@example.org,38,Ferreira,TN,2024-06-15,3399.94,28,Crédito,3,False
+716.572.628-47,Ana Liz Rodrigues,vieiraeduardo@example.com,26,Garcia,PA,2024-06-19,8751.68,34,Débito,3,True
+397.187.072-47,Melina Cassiano,pedro-lucas16@example.com,56,da Rocha de Souza,RS,2024-06-22,8669.54,2,Crédito,1,False
+398.262.244-13,Maria Julia Peixoto,aylla15@example.com,35,Pires,MG,2024-06-25,2415.68,32,Crédito,4,True
+178.390.847-53,Asafe Macedo,rporto@example.com,21,Sampaio,AM,2024-06-29,4575.79,23,Pix,4,False
+350.305.641-60,Bryan da Mota,vianacaue@example.com,42,Pacheco,RS,2024-07-02,2847.73,22,Crédito,5,False
+180.170.462-78,Fernanda Vieira,nascimentoluigi@example.com,31,da Costa,MA,2024-07-06,2706.6,25,Débito,1,False
+167.243.426-27,Lara Nogueira,ravi06@example.com,67,Garcia,FL,2024-07-09,524.61,22,Débito,3,True
+932.480.861-30,Luiz Felipe da Luz,bernardorodrigues@example.net,26,Pastor Verde,MA,2024-07-13,5564.17,22,Pix,4,True
+294.131.869-01,Ana Liz Jesus,valentim48@example.net,43,Leão de Aparecida,SE,2024-07-16,4623.58,6,Débito,1,False
+665.240.415-00,João da Rosa,hda-cruz@example.net,70,Siqueira,PE,2024-07-20,653.01,15,Boleto,4,False
+564.679.970-85,Marcela Ribeiro,machadobrayan@example.net,19,Silveira,CA,2024-07-23,2652.09,37,Pix,4,True
+401.399.049-05,José Pedro Lima,tmartins@example.com,37,Cirino,RJ,2024-07-27,8192.74,33,Débito,3,True
+331.509.839-59,Clara Rocha,caroline06@example.net,45,Cardoso,RI,2024-07-30,2308.14,8,Débito,2,False
+498.776.945-06,Emanuelly Lopes,pimentayasmin@example.org,64,Pastor de Garcia,MT,2024-08-03,1475.07,5,Boleto,5,True
+375.265.479-16,Melissa Aragão,milena86@example.com,24,Andrade,RN,2024-08-06,4507.18,39,Pix,5,False
+179.327.104-64,Hellena Lima,amanda78@example.org,61,Siqueira,RS,2024-08-10,8873.72,4,Boleto,3,True
+027.588.425-21,Eloá Pinto,ovieira@example.org,25,Cassiano,OH,2024-08-13,2330.09,6,Pix,4,False
+773.872.148-08,Léo Souza,almeidabrayan@example.net,64,da Luz,AM,2024-08-17,6114.79,32,Pix,1,False
+853.747.411-87,Erick Andrade,pietra15@example.net,52,Porto,MG,2024-08-20,6902.25,30,Crédito,4,True
+156.676.527-73,Benício da Cruz,mendestheo@example.com,31,Pimenta Alegre,RN,2024-08-23,2291.21,35,Débito,3,True
+180.552.696-02,Daniel Montenegro,joao-guilherme11@example.org,34,Guerra,CE,2024-08-27,6608.3,16,Débito,5,True
+296.201.533-67,Sr. Murilo da Rosa,hcostela@example.com,53,Andrade de Minas,TX,2024-08-30,3436.49,13,Crédito,4,True
+474.517.123-46,Vitor Hugo Alves,mariada-mata@example.org,67,Novais dos Dourados,NJ,2024-09-03,5764.29,30,Boleto,5,True
+956.046.618-64,Camila Silva,znovaes@example.com,57,Araújo de Nascimento,SE,2024-09-06,5775.06,19,Crédito,1,False
+004.786.863-58,Ana Sophia Albuquerque,miguelmendonca@example.org,21,Câmara da Mata,NY,2024-09-10,4914.82,17,Débito,5,True
+398.225.871-55,Renan Cirino,da-motaana-vitoria@example.com,19,Mendes Verde,FL,2024-09-13,994.55,19,Débito,5,False
+743.748.969-45,Gustavo Henrique da Mota,lpacheco@example.net,23,Câmara,MA,2024-09-17,7550.66,28,Crédito,2,True
+685.054.235-42,Rodrigo Moura,stella48@example.org,71,Peixoto,AL,2024-09-20,3022.86,26,Crédito,2,True
+467.065.627-93,Maria Flor Câmara,oramos@example.net,59,Sampaio da Praia,SC,2024-09-24,1841.36,37,Crédito,2,False
+143.634.957-58,Luiza Macedo,qguerra@example.org,21,Montenegro,GA,2024-09-27,558.82,26,Débito,5,False
+262.218.909-50,Lorenzo Carvalho,mendoncaester@example.com,71,Novais de Martins,MG,2024-10-01,5399.86,23,Crédito,3,True
+527.111.161-07,Fernando Almeida,manuelacosta@example.com,46,Lima da Serra,RJ,2024-10-04,6162.57,9,Crédito,5,False
+098.593.174-45,Ana Clara Rezende,ceciliamacedo@example.net,35,Santos do Oeste,PA,2024-10-08,345.97,12,Boleto,3,True
+060.983.584-00,Melina Novaes,maria-eduardasiqueira@example.com,43,Nogueira,GO,2024-10-11,4706.42,1,Crédito,3,True
+526.949.588-00,Srta. Maria Júlia da Mota,isaac74@example.net,61,Cavalcanti,TN,2024-10-14,2193.16,1,Débito,2,True
+714.785.969-37,Sr. Juan Novaes,almeidaclarice@example.org,51,Nunes,CE,2024-10-18,5877.52,34,Boleto,4,False
+393.087.059-29,Sr. Murilo Montenegro,da-conceicaogustavo@example.org,27,Brito,MG,2024-10-21,1734.42,32,Pix,1,False
+244.935.348-85,Dr. Theo Martins,mda-paz@example.org,53,Correia Paulista,FL,2024-10-25,6280.25,25,Débito,2,True
+514.936.899-75,Sra. Hadassa Silva,sophiepereira@example.com,31,Almeida,GO,2024-10-28,3603.27,1,Débito,2,True
+348.434.437-78,Juan Costela,ana-cecilia09@example.com,48,da Rosa,FL,2024-11-01,8443.22,16,Pix,4,True
+491.778.507-34,Nina Macedo,lara24@example.org,65,Silva de Rios,RS,2024-11-04,1410.18,39,Débito,1,True
+375.679.825-95,Sabrina Câmara,barrosmaria-isis@example.net,32,Machado,AM,2024-11-08,3201.38,5,Pix,5,False
+068.536.153-52,Isabela Santos,maria-clara20@example.net,25,Ferreira do Sul,PE,2024-11-11,1198.57,22,Pix,5,True
+986.800.025-42,Isaque Duarte,mariane49@example.com,31,Rodrigues do Campo,MT,2024-11-15,8337.3,29,Débito,2,True
+247.510.799-56,Noah Cavalcante,mateus55@example.net,40,Barros do Campo,NJ,2024-11-18,7920.59,3,Crédito,1,False
+063.242.415-05,Helena Ramos,ana-clara63@example.net,74,Barbosa,TX,2024-11-22,2469.89,12,Crédito,2,False
+559.059.929-67,Maria Flor Farias,bryancastro@example.org,57,Correia,MA,2024-11-25,6007.86,26,Pix,3,True
+696.816.453-16,Dr. Rhavi Freitas,pereiraana@example.org,38,Rodrigues,BA,2024-11-29,7391.56,16,Boleto,2,False
+914.865.281-47,Dr. Cauê Novais,lgarcia@example.org,33,Porto de da Cruz,MA,2024-12-02,5085.77,37,Pix,2,True
+879.470.551-81,Dr. João Lucas Novais,maria-juliajesus@example.net,62,Souza de Lima,MA,2024-12-06,4860.93,22,Pix,5,True
+715.437.993-61,Vicente Aragão,da-pazrodrigo@example.com,35,Moura,SC,2024-12-09,2328.3,29,Pix,5,False
+939.909.169-47,Srta. Alexia Cavalcante,jsa@example.org,64,Pacheco,PA,2024-12-12,1019.3,14,Crédito,5,True
+982.146.584-62,Nina da Mota,agathaalmeida@example.org,70,Souza de Goiás,PE,2024-12-16,8095.5,28,Crédito,3,False
+181.599.706-09,Heitor Fogaça,ravi-luccapastor@example.com,41,Santos de Vasconcelos,GA,2024-12-19,8123.68,5,Crédito,5,True
+499.045.301-81,Isabella Rodrigues,lpastor@example.org,43,Costela de Cunha,OH,2024-12-23,5771.29,30,Pix,1,True
+530.745.054-00,Nicole Araújo,laissa@example.com,42,Costela,PA,2024-12-26,3183.46,5,Boleto,4,False
+104.332.181-00,Milena Novaes,pastorvitor-gabriel@example.net,62,Aragão,NJ,2024-12-30,3273.04,12,Crédito,1,False
+132.370.589-98,Luiz Felipe da Costa,gael-henriqueporto@example.com,58,Camargo,MG,2025-01-02,6588.41,16,Débito,1,False
+627.028.951-31,Vitor Gabriel Cassiano,clara20@example.org,46,Ribeiro do Campo,SE,2025-01-06,8094.57,26,Débito,5,True
+470.168.733-23,Lorena Rodrigues,das-nevesryan@example.org,32,Pacheco de Marques,NJ,2025-01-09,8006.36,26,Débito,4,True
+983.273.158-54,Nicole Moura,oliviacamargo@example.org,62,Rodrigues Grande,BA,2025-01-13,7062.9,21,Pix,4,True
+925.556.258-44,André Guerra,rezendeotto@example.org,18,Teixeira Paulista,RN,2025-01-16,5849.88,39,Débito,4,True
+278.248.963-15,Davi Lucca Brito,macedooliver@example.com,42,Albuquerque,RI,2025-01-20,940.43,36,Pix,3,False
+059.304.078-35,Joana Abreu,pedro-lucas97@example.net,24,Costela do Amparo,GO,2025-01-23,1622.33,33,Débito,5,False
+755.646.417-28,Srta. Alícia Castro,da-matarebeca@example.org,26,Costela,BA,2025-01-27,8107.28,30,Boleto,4,False
+418.328.569-09,Sra. Caroline Andrade,maria-helena95@example.org,41,Carvalho,MT,2025-01-30,5536.58,37,Pix,3,True
+309.130.756-55,Lunna Rezende,zfernandes@example.org,18,Azevedo,AM,2025-02-03,280.93,23,Débito,2,False
+731.781.080-09,Marina da Cruz,juliana64@example.org,61,Jesus da Serra,PE,2025-02-06,1092.95,10,Crédito,2,False
+027.874.296-37,Samuel das Neves,osampaio@example.net,25,Moreira,OH,2025-02-09,6038.82,5,Pix,3,False
+293.968.562-23,Elisa Gonçalves,noahcastro@example.net,41,Vargas de Goiás,NJ,2025-02-13,244.54,36,Crédito,3,False
+680.182.422-83,Júlia Rodrigues,qoliveira@example.com,28,Andrade,GA,2025-02-16,1615.11,34,Crédito,5,True
+798.552.414-28,Samuel Vargas,carolinesilva@example.net,68,Montenegro,RN,2025-02-20,5028.86,31,Crédito,5,True
+301.031.051-07,Pedro Miguel Câmara,lunna21@example.com,34,da Mata,GO,2025-02-23,6288.68,10,Crédito,2,False
+947.174.648-50,Nicole Sousa,cpimenta@example.com,25,Gonçalves,PA,2025-02-27,5937.26,19,Débito,4,True
+826.137.506-42,Luan Costela,yurida-rocha@example.net,52,Moura das Flores,PA,2025-03-02,2173.57,32,Débito,2,False
+043.842.797-10,Maria Helena Costela,sophiegoncalves@example.org,52,Abreu,TX,2025-03-06,6467.18,1,Pix,4,True
+078.361.340-75,Ana Carolina Barros,krios@example.org,50,Silveira Verde,TN,2025-03-09,2287.79,5,Pix,4,True
+640.391.065-55,Vitor da Mata,heloisa81@example.com,22,Vargas,TN,2025-03-13,3063.52,4,Pix,5,False
+612.004.711-56,Dr. Henrique Guerra,marianamacedo@example.org,59,Gomes,RJ,2025-03-16,6769.12,16,Débito,1,False
+037.917.693-91,Théo Porto,oliviada-rocha@example.net,56,Cirino,GO,2025-03-20,5916.77,24,Pix,1,False
+250.392.614-20,Henry Correia,rdas-neves@example.org,58,Albuquerque Grande,TX,2025-03-23,7673.17,16,Crédito,3,False
+681.177.589-03,Srta. Camila Casa Grande,cauaferreira@example.net,45,Cunha do Galho,RJ,2025-03-27,5986.99,2,Débito,5,True
+679.334.101-46,Oliver Oliveira,sampaiolaura@example.org,24,Lima de Minas,CA,2025-03-30,5201.12,28,Pix,4,False
+627.204.653-72,Henry Gabriel da Conceição,luiz-gustavosales@example.org,26,Viana Grande,PA,2025-04-03,1024.34,32,Crédito,1,True
+034.944.665-21,Sra. Juliana Cardoso,lmoraes@example.com,25,da Luz,AM,2025-04-06,3435.9,27,Pix,4,False
+796.275.705-16,Apollo Garcia,isadoramoura@example.net,29,Brito,PE,2025-04-09,2533.78,20,Boleto,1,True
+545.226.752-24,Otto Correia,henrique57@example.net,51,Vargas,MG,2025-04-13,2347.11,24,Pix,1,False
+109.439.690-77,Anthony Gabriel Caldeira,maria-isiscardoso@example.com,50,da Cunha,SC,2025-04-16,8762.49,12,Boleto,1,True
+937.966.033-27,Vitor Costa,zjesus@example.org,65,Vieira,OH,2025-04-20,3659.26,35,Pix,5,True
+146.303.161-08,Davi Luiz Leão,fernandovargas@example.com,72,Marques da Serra,AL,2025-04-23,8050.01,33,Pix,2,False
+443.135.182-58,Dr. Rhavi Silveira,udias@example.org,40,Peixoto da Prata,NY,2025-04-27,5754.02,33,Débito,4,False
+430.068.486-32,Francisco Alves,rezendejuliana@example.net,41,da Mata,GA,2025-04-30,7194.34,37,Débito,5,True
+001.701.277-53,Luiz Fernando Fernandes,ottomendonca@example.net,54,da Cruz da Prata,PA,2025-05-04,4623.21,12,Boleto,5,False
+246.299.606-00,Yuri Pereira,diego23@example.org,52,Vieira,SC,2025-05-07,5276.75,3,Débito,5,False
+014.388.899-41,Dante Fernandes,tcirino@example.net,61,Rios da Serra,NJ,2025-05-11,4534.16,1,Crédito,5,True
+171.545.444-81,Hadassa Ferreira,leticiada-cunha@example.com,57,Martins,ES,2025-05-14,1918.14,33,Crédito,5,False
+903.311.907-29,Cecília Almeida,andre66@example.com,39,Rodrigues,AM,2025-05-18,6557.58,10,Boleto,3,False
+019.380.262-76,Sr. Théo Alves,vitor-hugolopes@example.org,44,Cunha,NY,2025-05-21,2670.8,29,Crédito,4,False
+820.377.889-59,Paulo Casa Grande,danielasampaio@example.com,52,da Cruz de Duarte,OH,2025-05-25,413.98,13,Crédito,5,False
+355.215.704-20,Lívia Viana,mendesjuliana@example.com,18,Siqueira do Galho,NJ,2025-05-28,5880.16,12,Pix,4,False
+466.889.373-01,Marcos Vinicius Montenegro,benjamim47@example.net,52,Fernandes,MT,2025-06-01,1758.57,31,Débito,3,False

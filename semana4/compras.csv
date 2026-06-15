@@ -1,0 +1,351 @@
+id_compra,cpf_cliente,data_compra,canal_venda,produto,categoria,quantidade,preco_unitario,desconto_percentual,frete,subtotal,total,forma_pagamento,parcelas,status_pedido,estado_entrega,avaliacao,cupom_usado
+CF3026E0,070.534.578-50,2024-12-22,Televendas,Bola de Futebol,Esportes,1,2599.3,0.07,0.0,2599.3,2417.35,Crédito,1,Entregue,SP,1.0,True
+36389828,324.210.249-51,2026-01-04,Loja Física,Vestido,Roupas,5,107.48,0.06,24.52,537.4,529.68,Pix,1,Entregue,SP,2.0,False
+3BC9B5A9,309.232.719-53,2026-05-09,Loja Física,Tapete,Casa,2,765.37,0.23,0.0,1530.74,1178.67,Crédito,6,Em trânsito,CE,,False
+44FA1B14,187.053.494-86,2026-03-27,App,Carregador Portátil,Eletrônicos,4,1883.75,0.29,24.84,7535.0,5374.69,Boleto,1,Devolvido,DF,,True
+941174A9,039.117.182-84,2025-08-27,Televendas,Carregador Portátil,Eletrônicos,2,2709.14,0.3,38.99,5418.28,3831.79,Boleto,1,Em trânsito,AM,,False
+955F9462,424.981.829-26,2024-09-16,App,Tênis,Roupas,3,745.13,0.08,29.16,2235.39,2085.72,Débito,1,Processando,MG,,False
+976C2759,074.466.609-02,2025-04-28,Loja Física,Azeite,Alimentos,5,780.36,0.1,2.52,3901.8,3514.14,Crédito,7,Devolvido,PR,,True
+7CC6495C,596.292.330-88,2026-02-10,App,Vestido,Roupas,3,756.0,0.15,28.93,2268.0,1956.73,Boleto,1,Entregue,RS,5.0,False
+BA8BEB6B,472.126.464-07,2025-02-27,Site,Garrafa Térmica,Esportes,4,3143.91,0.12,0.0,12575.64,11066.56,Pix,1,Entregue,SP,1.0,True
+B70B2207,251.925.462-90,2025-03-20,Site,Raquete,Esportes,4,2093.49,0.12,21.06,8373.96,7390.14,Crédito,11,Entregue,PE,3.0,False
+42E5F391,785.191.088-90,2026-01-12,Site,Tablet,Eletrônicos,4,566.18,0.0,32.39,2264.72,2297.11,Débito,1,Processando,AM,,False
+C08D4FE6,398.454.615-73,2024-08-14,Loja Física,Garrafa Térmica,Esportes,5,708.21,0.11,0.0,3541.05,3151.53,Crédito,8,Devolvido,SP,,True
+FA12C054,993.867.749-50,2025-04-26,App,Tapete,Casa,2,216.87,0.26,3.85,433.74,324.82,Crédito,3,Em trânsito,AM,,False
+B27FA9E4,395.376.724-09,2026-05-05,Loja Física,Creme Hidratante,Beleza,3,1853.94,0.18,41.8,5561.82,4602.49,Débito,1,Devolvido,SC,,False
+3663922D,051.522.047-70,2025-03-07,Site,Chá Especial,Alimentos,4,436.7,0.07,26.47,1746.8,1650.99,Débito,1,Entregue,RJ,1.0,True
+0A1C38B5,529.096.561-01,2026-04-02,App,Smartphone,Eletrônicos,3,261.94,0.07,9.64,785.82,740.45,Pix,1,Entregue,GO,4.0,True
+964692AB,475.255.341-44,2025-11-10,Site,Smartphone,Eletrônicos,4,1249.73,0.12,2.44,4998.92,4401.49,Crédito,7,Cancelado,DF,,False
+32982D2A,603.859.770-00,2026-05-03,Televendas,Notebook,Eletrônicos,2,677.88,0.13,12.53,1355.76,1192.04,Crédito,9,Entregue,RJ,1.0,True
+574BB8F2,815.371.473-23,2025-06-27,Site,Notebook,Eletrônicos,2,1431.35,0.14,40.61,2862.7,2502.53,Pix,1,Entregue,SC,3.0,False
+C39F64F5,412.126.788-50,2025-11-22,Site,Almofada,Casa,5,2321.62,0.15,0.0,11608.1,9866.89,Crédito,12,Entregue,BA,1.0,True
+02ECC2B2,578.091.343-96,2024-07-09,App,Sérum Facial,Beleza,5,3219.06,0.16,0.0,16095.3,13520.05,Crédito,2,Processando,CE,,True
+A8E3B274,873.342.708-94,2025-10-08,Site,Raquete,Esportes,4,432.8,0.27,0.0,1731.2,1263.78,Crédito,7,Processando,AM,,False
+3904E9D9,337.498.941-16,2025-07-01,Site,Luminária,Casa,3,846.82,0.12,13.5,2540.46,2249.1,Crédito,8,Entregue,CE,5.0,True
+5F00C60E,417.146.774-86,2024-12-27,Loja Física,Smartwatch,Eletrônicos,2,1778.01,0.04,3.1,3556.02,3416.88,Boleto,1,Entregue,MG,4.0,False
+16E8E3CD,915.478.872-22,2025-04-10,Site,Protetor Solar,Beleza,1,2342.5,0.17,4.66,2342.5,1948.93,Boleto,1,Entregue,RJ,5.0,True
+19954C9D,422.579.050-91,2026-02-05,Loja Física,Tapete,Casa,5,749.04,0.1,38.38,3745.2,3409.06,Pix,1,Processando,SP,,True
+05DAEDD8,277.901.043-65,2025-12-13,Televendas,Yoga Mat,Esportes,3,168.64,0.1,0.0,505.92,455.33,Débito,1,Entregue,PE,4.0,True
+CB369684,788.957.986-19,2025-07-31,Loja Física,Smartphone,Eletrônicos,2,1916.38,0.25,6.66,3832.76,2881.23,Crédito,6,Entregue,SP,3.0,True
+F079040A,289.861.434-37,2024-12-29,App,Raquete,Esportes,1,1247.57,0.17,43.82,1247.57,1079.3,Débito,1,Cancelado,MG,,True
+512F3F71,447.394.731-94,2024-07-17,Loja Física,Café Premium,Alimentos,2,2581.93,0.1,36.1,5163.86,4683.57,Débito,1,Devolvido,MG,,True
+6CA5EC47,745.961.586-22,2025-02-18,App,Café Premium,Alimentos,4,790.18,0.24,13.73,3160.72,2415.88,Débito,1,Devolvido,SP,,True
+5684CFFC,784.473.647-04,2025-07-14,Loja Física,Azeite,Alimentos,3,3027.27,0.29,0.0,9081.81,6448.09,Pix,1,Cancelado,SP,,True
+43179A6F,238.849.696-92,2025-12-07,Loja Física,Luminária,Casa,5,3369.43,0.08,0.0,16847.15,15499.38,Boleto,1,Em trânsito,SC,,True
+9B948B29,611.836.736-12,2025-12-02,Loja Física,Chá Especial,Alimentos,2,902.71,0.21,0.0,1805.42,1426.28,Débito,1,Devolvido,SC,,True
+7D39396B,765.918.033-94,2024-06-23,Loja Física,Luva de Box,Esportes,5,1109.0,0.25,13.51,5545.0,4172.26,Pix,1,Entregue,SC,3.0,True
+6727AB4D,412.328.120-64,2026-03-22,Loja Física,Jaqueta,Roupas,4,2375.45,0.27,13.54,9501.8,6949.85,Crédito,5,Processando,RS,,False
+E527DF88,102.767.735-51,2025-11-21,Site,Protetor Solar,Beleza,3,1635.48,0.13,0.0,4906.44,4268.6,Débito,1,Em trânsito,PR,,False
+69651993,024.103.865-04,2025-07-31,Site,Notebook,Eletrônicos,3,797.87,0.06,0.0,2393.61,2249.99,Pix,1,Entregue,GO,4.0,True
+CD22735D,545.892.975-66,2025-09-07,Televendas,Yoga Mat,Esportes,4,1407.79,0.04,40.17,5631.16,5446.08,Crédito,4,Devolvido,MG,,False
+0940DD69,685.014.294-14,2025-08-07,Televendas,Smartwatch,Eletrônicos,2,3212.38,0.04,0.0,6424.76,6167.77,Boleto,1,Em trânsito,CE,,False
+86715C27,168.685.487-02,2025-05-06,Televendas,Sérum Facial,Beleza,2,2606.64,0.14,0.0,5213.28,4483.42,Boleto,1,Entregue,AM,2.0,False
+68C5D602,586.518.506-38,2026-03-28,Televendas,Café Premium,Alimentos,3,832.21,0.1,3.63,2496.63,2250.6,Débito,1,Entregue,DF,2.0,True
+81212606,794.738.347-21,2024-08-16,Televendas,Fone de Ouvido,Eletrônicos,4,1168.12,0.14,0.0,4672.48,4018.33,Pix,1,Devolvido,CE,,True
+E648FA0D,356.465.193-49,2025-07-10,App,Sérum Facial,Beleza,4,35.55,0.11,38.41,142.2,164.97,Pix,1,Devolvido,GO,,True
+8EF835CC,447.132.475-61,2025-11-02,App,Almofada,Casa,4,116.15,0.1,18.19,464.6,436.33,Pix,1,Entregue,CE,5.0,True
+073291D5,881.914.858-77,2025-06-23,Loja Física,Chá Especial,Alimentos,5,2325.55,0.03,39.01,11627.75,11317.93,Crédito,7,Entregue,BA,2.0,False
+FCAA7031,999.119.148-87,2025-01-20,Site,Tapete,Casa,4,984.72,0.29,37.57,3938.88,2834.17,Crédito,6,Em trânsito,RS,,True
+C029CD74,060.293.333-13,2025-02-15,App,Bola de Futebol,Esportes,1,3324.4,0.06,0.0,3324.4,3124.94,Débito,1,Entregue,GO,1.0,True
+832C4A17,800.030.756-13,2025-01-05,Loja Física,Azeite,Alimentos,3,599.75,0.18,5.15,1799.25,1480.54,Débito,1,Devolvido,RJ,,True
+A263CBDF,716.572.628-47,2025-07-23,Site,Organizador,Casa,4,1397.34,0.21,0.0,5589.36,4415.59,Débito,1,Cancelado,DF,,False
+524D4E7C,397.187.072-47,2025-06-27,Loja Física,Garrafa Térmica,Esportes,1,2789.85,0.17,0.0,2789.85,2315.58,Pix,1,Processando,RJ,,False
+8EA90DB5,398.262.244-13,2024-09-22,Televendas,Fone de Ouvido,Eletrônicos,4,382.8,0.29,37.29,1531.2,1124.44,Débito,1,Cancelado,MG,,False
+FAD75CD2,178.390.847-53,2025-02-15,Loja Física,Protetor Solar,Beleza,4,1635.09,0.25,14.5,6540.36,4919.77,Crédito,8,Entregue,RS,4.0,False
+89338AB8,350.305.641-60,2024-09-21,Loja Física,Panela,Casa,4,2980.57,0.05,0.0,11922.28,11326.17,Boleto,1,Devolvido,PR,,False
+DB86A997,180.170.462-78,2025-02-01,Televendas,Perfume,Beleza,5,3319.0,0.03,21.99,16595.0,16119.14,Débito,1,Devolvido,AM,,False
+C4EC722B,167.243.426-27,2025-02-14,Televendas,Café Premium,Alimentos,1,1040.41,0.12,0.0,1040.41,915.56,Boleto,1,Cancelado,PE,,False
+20985AA5,932.480.861-30,2026-04-06,Loja Física,Chá Especial,Alimentos,3,1241.06,0.14,10.37,3723.18,3212.3,Débito,1,Cancelado,RJ,,True
+5B46C333,294.131.869-01,2024-07-10,Loja Física,Calça Jeans,Roupas,4,978.6,0.18,26.86,3914.4,3236.67,Débito,1,Entregue,RS,3.0,True
+66EFDC63,665.240.415-00,2025-10-02,Televendas,Panela,Casa,5,456.14,0.01,0.0,2280.7,2257.89,Débito,1,Entregue,RJ,1.0,False
+757E0DF5,564.679.970-85,2025-04-08,Site,Vinho,Alimentos,4,1202.36,0.29,0.0,4809.44,3414.7,Pix,1,Devolvido,RJ,,False
+7A995FBE,401.399.049-05,2025-09-04,Site,Café Premium,Alimentos,5,2208.62,0.02,0.0,11043.1,10822.24,Boleto,1,Processando,RS,,True
+36EDCF64,331.509.839-59,2024-06-24,Televendas,Sérum Facial,Beleza,5,2092.5,0.19,17.12,10462.5,8491.75,Boleto,1,Em trânsito,PR,,True
+64694856,498.776.945-06,2026-03-20,Site,Perfume,Beleza,2,2194.92,0.08,0.0,4389.84,4038.65,Débito,1,Entregue,MG,1.0,False
+C844D394,375.265.479-16,2024-12-19,App,Chá Especial,Alimentos,4,1030.04,0.07,31.63,4120.16,3863.38,Crédito,5,Em trânsito,AM,,True
+0E541794,179.327.104-64,2025-04-30,Site,Café Premium,Alimentos,5,798.46,0.04,0.0,3992.3,3832.61,Crédito,3,Entregue,PR,5.0,False
+C676DAB8,027.588.425-21,2026-01-01,Site,Café Premium,Alimentos,4,2415.04,0.21,22.52,9660.16,7654.05,Pix,1,Em trânsito,CE,,True
+FC32B849,773.872.148-08,2024-10-14,Loja Física,Azeite,Alimentos,5,887.53,0.03,37.62,4437.65,4342.14,Crédito,10,Processando,SP,,True
+87B48EE4,853.747.411-87,2025-08-26,Televendas,Chá Especial,Alimentos,4,3207.51,0.05,28.57,12830.04,12217.11,Crédito,6,Em trânsito,SC,,False
+FF84A869,156.676.527-73,2026-01-01,Televendas,Toalha,Casa,1,3004.2,0.1,12.97,3004.2,2716.75,Crédito,2,Em trânsito,BA,,False
+F2E4D8C3,180.552.696-02,2025-05-11,Televendas,Panela,Casa,4,3029.21,0.25,0.0,12116.84,9087.63,Pix,1,Devolvido,SP,,True
+636483B8,296.201.533-67,2024-11-28,Loja Física,Shampoo,Beleza,5,2651.2,0.19,9.16,13256.0,10746.52,Débito,1,Processando,GO,,False
+860A7157,474.517.123-46,2026-04-26,App,Smartphone,Eletrônicos,5,2800.61,0.21,0.62,14003.05,11063.03,Crédito,2,Em trânsito,GO,,True
+B2F5224F,956.046.618-64,2024-07-06,App,Raquete,Esportes,4,3265.3,0.09,18.7,13061.2,11904.39,Pix,1,Em trânsito,GO,,True
+4CAD3086,004.786.863-58,2026-05-16,Loja Física,Chocolate Importado,Alimentos,5,1786.22,0.26,12.43,8931.1,6621.44,Pix,1,Devolvido,PE,,False
+2FC7C56E,398.225.871-55,2026-03-17,Loja Física,Tablet,Eletrônicos,3,2933.6,0.17,38.94,8800.8,7343.6,Pix,1,Em trânsito,BA,,False
+14966723,743.748.969-45,2025-05-27,Loja Física,Azeite,Alimentos,2,3433.0,0.07,38.52,6866.0,6423.9,Crédito,12,Em trânsito,GO,,False
+0FDEEA8E,685.054.235-42,2025-10-10,Site,Chocolate Importado,Alimentos,4,3377.41,0.04,14.94,13509.64,12984.19,Pix,1,Entregue,PE,4.0,True
+4DD83B6D,467.065.627-93,2026-04-08,Loja Física,Raquete,Esportes,4,3050.2,0.29,0.0,12200.8,8662.57,Boleto,1,Devolvido,CE,,False
+BEE4A8E9,143.634.957-58,2025-05-08,Site,Bola de Futebol,Esportes,3,2985.41,0.26,14.25,8956.23,6641.86,Pix,1,Cancelado,CE,,True
+A60667B0,262.218.909-50,2025-11-29,Televendas,Moletom,Roupas,3,3491.03,0.22,4.43,10473.09,8173.44,Crédito,3,Cancelado,DF,,False
+DAB71552,527.111.161-07,2025-01-04,App,Smartphone,Eletrônicos,3,2789.56,0.09,6.55,8368.68,7622.05,Pix,1,Processando,MG,,True
+A39147FA,098.593.174-45,2025-08-02,Televendas,Smartwatch,Eletrônicos,4,2174.69,0.07,6.44,8698.76,8096.29,Boleto,1,Em trânsito,PR,,True
+20758B3C,060.983.584-00,2026-01-31,Loja Física,Azeite,Alimentos,5,565.55,0.13,26.44,2827.75,2486.58,Pix,1,Cancelado,GO,,False
+C571C1C3,526.949.588-00,2025-09-27,Site,Jaqueta,Roupas,4,386.69,0.11,13.31,1546.76,1389.93,Boleto,1,Cancelado,AM,,False
+B3B9A642,714.785.969-37,2024-09-07,Loja Física,Panela,Casa,5,3029.76,0.23,40.98,15148.8,11705.56,Pix,1,Cancelado,RS,,False
+6D5FBED8,393.087.059-29,2024-09-04,Site,Moletom,Roupas,2,2178.81,0.2,29.66,4357.62,3515.76,Débito,1,Devolvido,AM,,True
+CCC1EA7F,244.935.348-85,2026-03-29,Televendas,Almofada,Casa,1,2034.81,0.22,0.0,2034.81,1587.15,Boleto,1,Entregue,MG,2.0,True
+ACD7FFAF,514.936.899-75,2026-03-15,Loja Física,Shampoo,Beleza,5,1763.75,0.08,0.0,8818.75,8113.25,Pix,1,Devolvido,DF,,False
+A13C35AB,348.434.437-78,2025-10-16,Site,Fone de Ouvido,Eletrônicos,1,505.54,0.29,32.59,505.54,391.52,Boleto,1,Em trânsito,SC,,True
+0623D038,491.778.507-34,2025-11-10,Site,Organizador,Casa,1,1599.93,0.2,26.31,1599.93,1306.25,Boleto,1,Devolvido,AM,,True
+EACD4FA6,375.679.825-95,2026-03-27,Loja Física,Café Premium,Alimentos,5,3096.56,0.17,9.96,15482.8,12860.68,Pix,1,Entregue,AM,4.0,True
+D0E7F052,068.536.153-52,2026-01-06,Televendas,Camiseta,Roupas,1,1075.71,0.15,0.0,1075.71,914.35,Débito,1,Processando,GO,,False
+A8D7C38B,986.800.025-42,2026-02-03,Televendas,Garrafa Térmica,Esportes,4,2061.88,0.22,29.47,8247.52,6462.54,Pix,1,Devolvido,PR,,True
+92105B50,247.510.799-56,2026-04-16,Loja Física,Luva de Box,Esportes,2,1560.19,0.29,4.47,3120.38,2219.94,Boleto,1,Cancelado,SP,,False
+F76AF6F9,063.242.415-05,2026-01-01,Site,Luminária,Casa,1,3322.3,0.25,0.0,3322.3,2491.73,Crédito,6,Entregue,RS,2.0,True
+DC1C7949,559.059.929-67,2024-12-26,Site,Smartwatch,Eletrônicos,2,2058.55,0.24,0.0,4117.1,3129.0,Débito,1,Devolvido,PR,,True
+3F7752CF,696.816.453-16,2026-05-22,Loja Física,Vestido,Roupas,3,2797.82,0.03,5.93,8393.46,8147.59,Débito,1,Entregue,SP,2.0,False
+E07C8692,914.865.281-47,2026-02-28,Televendas,Notebook,Eletrônicos,4,1848.41,0.22,35.01,7393.64,5802.05,Crédito,9,Processando,RS,,True
+40B247E6,879.470.551-81,2024-08-16,Televendas,Garrafa Térmica,Esportes,3,1611.28,0.29,0.0,4833.84,3432.03,Pix,1,Em trânsito,AM,,True
+4D0C1EBD,715.437.993-61,2025-08-05,Loja Física,Vinho,Alimentos,1,3148.94,0.1,0.0,3148.94,2834.05,Boleto,1,Entregue,SC,5.0,False
+3490D47C,939.909.169-47,2025-08-24,Televendas,Chá Especial,Alimentos,5,1514.24,0.24,0.0,7571.2,5754.11,Débito,1,Cancelado,GO,,True
+A041912A,982.146.584-62,2025-08-21,App,Azeite,Alimentos,4,1404.57,0.22,14.06,5618.28,4396.32,Boleto,1,Entregue,AM,4.0,True
+4DD5A710,181.599.706-09,2026-05-27,Site,Smartphone,Eletrônicos,1,1520.09,0.22,5.86,1520.09,1191.53,Boleto,1,Entregue,SC,3.0,False
+510923F8,499.045.301-81,2025-04-11,App,Bola de Futebol,Esportes,3,2107.43,0.11,9.57,6322.29,5636.41,Pix,1,Cancelado,RJ,,False
+37C34B51,530.745.054-00,2025-07-09,Loja Física,Shampoo,Beleza,1,2672.68,0.17,38.03,2672.68,2256.35,Crédito,1,Devolvido,MG,,False
+9FCCB622,104.332.181-00,2025-08-31,Site,Luva de Box,Esportes,3,1238.32,0.05,0.0,3714.96,3529.21,Pix,1,Cancelado,MG,,True
+3FACC98F,132.370.589-98,2025-09-10,Site,Carregador Portátil,Eletrônicos,5,764.74,0.13,16.65,3823.7,3343.27,Boleto,1,Cancelado,SP,,True
+13F1558D,627.028.951-31,2025-06-07,Loja Física,Vestido,Roupas,1,2363.78,0.08,21.85,2363.78,2196.53,Pix,1,Em trânsito,RS,,True
+28975C1B,470.168.733-23,2025-10-04,Televendas,Almofada,Casa,1,1002.11,0.2,30.02,1002.11,831.71,Débito,1,Entregue,CE,1.0,True
+897577CE,983.273.158-54,2024-11-21,Televendas,Tênis,Roupas,2,2689.21,0.23,0.0,5378.42,4141.38,Crédito,12,Entregue,SC,2.0,True
+E41A5162,925.556.258-44,2026-06-05,Televendas,Chá Especial,Alimentos,2,1758.41,0.25,3.24,3516.82,2640.86,Crédito,1,Devolvido,GO,,True
+676D4829,278.248.963-15,2025-01-15,App,Organizador,Casa,4,2013.3,0.21,5.18,8053.2,6367.21,Boleto,1,Entregue,CE,4.0,False
+43419E34,059.304.078-35,2025-04-30,App,Fone de Ouvido,Eletrônicos,1,862.96,0.18,17.81,862.96,725.44,Boleto,1,Entregue,BA,2.0,True
+438B8EE7,755.646.417-28,2026-06-09,App,Perfume,Beleza,5,1792.18,0.27,32.73,8960.9,6574.19,Débito,1,Devolvido,RJ,,True
+52363E37,418.328.569-09,2024-10-01,Televendas,Luminária,Casa,2,2114.36,0.23,7.97,4228.72,3264.08,Pix,1,Devolvido,CE,,False
+E8D1FFCF,309.130.756-55,2025-06-15,Loja Física,Garrafa Térmica,Esportes,5,1141.38,0.29,19.79,5706.9,4071.69,Pix,1,Em trânsito,PR,,True
+50A2F301,731.781.080-09,2026-01-15,Site,Organizador,Casa,1,1096.77,0.14,0.0,1096.77,943.22,Boleto,1,Devolvido,AM,,True
+CCF2A021,027.874.296-37,2026-03-15,App,Protetor Solar,Beleza,5,1354.92,0.17,33.25,6774.6,5656.17,Pix,1,Entregue,BA,5.0,False
+2D61B209,293.968.562-23,2026-05-02,Site,Creme Hidratante,Beleza,1,1585.07,0.24,44.21,1585.07,1248.86,Débito,1,Entregue,RS,4.0,False
+FB44515F,680.182.422-83,2026-04-13,Site,Protetor Solar,Beleza,5,568.23,0.11,0.0,2841.15,2528.62,Boleto,1,Em trânsito,AM,,False
+D206F376,798.552.414-28,2025-05-19,Loja Física,Tablet,Eletrônicos,1,1959.5,0.12,0.0,1959.5,1724.36,Débito,1,Devolvido,RJ,,True
+45A13C76,301.031.051-07,2026-01-22,Loja Física,Tapete,Casa,4,464.4,0.21,0.0,1857.6,1467.5,Pix,1,Processando,MG,,True
+270493A6,947.174.648-50,2025-10-23,Televendas,Yoga Mat,Esportes,5,1275.97,0.11,0.0,6379.85,5678.07,Boleto,1,Entregue,RS,2.0,True
+D9EBD2AE,826.137.506-42,2025-06-23,Loja Física,Camiseta,Roupas,3,2957.83,0.03,37.58,8873.49,8644.87,Crédito,10,Processando,MG,,False
+2BAEF5C2,043.842.797-10,2026-04-08,Televendas,Calça Jeans,Roupas,2,2912.24,0.23,7.45,5824.48,4492.3,Crédito,6,Em trânsito,AM,,True
+D5A60CC6,078.361.340-75,2025-03-31,Televendas,Chá Especial,Alimentos,3,2637.08,0.24,0.0,7911.24,6012.54,Boleto,1,Entregue,RS,3.0,False
+2FD4A5F5,640.391.065-55,2025-06-09,Loja Física,Azeite,Alimentos,4,1767.63,0.13,0.0,7070.52,6151.35,Débito,1,Entregue,SP,4.0,False
+7C0983D1,612.004.711-56,2024-10-31,Televendas,Perfume,Beleza,5,2981.31,0.09,12.28,14906.55,13577.24,Débito,1,Processando,RJ,,True
+F22E3203,037.917.693-91,2025-09-17,App,Azeite,Alimentos,1,1460.92,0.12,17.38,1460.92,1302.99,Boleto,1,Entregue,SP,3.0,True
+80B840B3,250.392.614-20,2025-08-02,Televendas,Luva de Box,Esportes,2,494.53,0.09,31.32,989.06,931.36,Pix,1,Entregue,CE,1.0,True
+A0370A4B,681.177.589-03,2026-04-23,App,Tablet,Eletrônicos,2,2924.85,0.16,23.75,5849.7,4937.5,Boleto,1,Entregue,PR,1.0,True
+1B8968FE,679.334.101-46,2024-09-22,App,Jaqueta,Roupas,5,1608.04,0.03,26.85,8040.2,7825.84,Débito,1,Entregue,PR,4.0,True
+5AC60AF9,627.204.653-72,2025-09-25,Site,Shampoo,Beleza,2,2003.76,0.06,23.56,4007.52,3790.63,Crédito,7,Entregue,GO,1.0,False
+4D8D2D45,034.944.665-21,2025-02-08,Loja Física,Tapete,Casa,1,1259.47,0.02,0.0,1259.47,1234.28,Crédito,3,Cancelado,SP,,False
+DDC5769B,796.275.705-16,2025-12-28,Site,Shampoo,Beleza,2,2908.89,0.21,21.53,5817.78,4617.58,Débito,1,Entregue,DF,4.0,True
+0F06F570,545.226.752-24,2024-12-26,Loja Física,Luminária,Casa,1,2772.02,0.27,13.95,2772.02,2037.52,Pix,1,Em trânsito,SP,,True
+3D560DAD,109.439.690-77,2025-07-01,Televendas,Tapete,Casa,1,3032.31,0.1,0.0,3032.31,2729.08,Pix,1,Entregue,DF,4.0,False
+2740D895,937.966.033-27,2025-04-05,Site,Luminária,Casa,4,2426.86,0.11,12.0,9707.44,8651.62,Pix,1,Entregue,SC,5.0,True
+793105AA,146.303.161-08,2025-12-28,App,Shampoo,Beleza,3,372.55,0.1,0.0,1117.65,1005.89,Pix,1,Em trânsito,DF,,False
+07B6795E,443.135.182-58,2026-04-07,Site,Almofada,Casa,1,2547.95,0.27,19.57,2547.95,1879.57,Crédito,11,Cancelado,AM,,False
+82CB5B55,430.068.486-32,2024-10-13,Site,Organizador,Casa,2,3335.47,0.04,35.16,6670.94,6439.26,Débito,1,Entregue,RS,3.0,False
+103ADC6D,001.701.277-53,2025-04-02,App,Chá Especial,Alimentos,1,2123.76,0.2,16.74,2123.76,1715.75,Crédito,9,Devolvido,BA,,False
+E86C2A84,246.299.606-00,2024-08-07,Loja Física,Toalha,Casa,3,884.9,0.03,22.46,2654.7,2597.52,Crédito,5,Em trânsito,DF,,False
+AA745318,014.388.899-41,2024-09-02,Televendas,Vestido,Roupas,3,2433.52,0.3,0.0,7300.56,5110.39,Crédito,3,Entregue,DF,4.0,True
+484EC87C,171.545.444-81,2024-07-25,App,Luva de Box,Esportes,3,2487.75,0.16,0.0,7463.25,6269.13,Débito,1,Entregue,BA,5.0,True
+3D8F3A4B,903.311.907-29,2025-10-04,Site,Notebook,Eletrônicos,2,840.03,0.15,25.75,1680.06,1453.8,Débito,1,Em trânsito,RJ,,False
+4B189498,019.380.262-76,2025-02-10,Televendas,Vinho,Alimentos,5,1446.62,0.12,5.64,7233.1,6370.77,Crédito,8,Entregue,AM,5.0,False
+37C4DC22,820.377.889-59,2024-07-17,App,Vestido,Roupas,5,649.14,0.29,40.98,3245.7,2345.43,Crédito,5,Entregue,MG,2.0,False
+977DFACE,355.215.704-20,2025-10-18,App,Raquete,Esportes,3,3316.98,0.16,0.0,9950.94,8358.79,Boleto,1,Entregue,AM,5.0,False
+92A70F8B,466.889.373-01,2024-10-04,App,Moletom,Roupas,3,2156.28,0.03,26.63,6468.84,6301.4,Débito,1,Processando,AM,,False
+83266678,171.545.444-81,2024-11-23,Site,Smartphone,Eletrônicos,1,173.43,0.19,29.3,173.43,169.78,Pix,1,Devolvido,GO,,False
+2C6362CB,467.065.627-93,2024-11-03,Televendas,Chocolate Importado,Alimentos,4,1051.56,0.02,0.0,4206.24,4122.12,Pix,1,Em trânsito,GO,,True
+0A0532F2,514.936.899-75,2026-04-18,Loja Física,Creme Hidratante,Beleza,3,3017.28,0.1,15.54,9051.84,8162.2,Débito,1,Em trânsito,PE,,True
+D4E1D8D1,098.593.174-45,2026-03-06,Televendas,Jaqueta,Roupas,1,947.14,0.07,0.0,947.14,880.84,Pix,1,Entregue,RS,2.0,False
+52B58FAD,820.377.889-59,2024-07-03,Site,Luva de Box,Esportes,2,2674.48,0.15,22.44,5348.96,4569.06,Pix,1,Entregue,RJ,4.0,False
+EF1283EC,331.509.839-59,2025-09-25,Loja Física,Vestido,Roupas,3,184.57,0.08,37.93,553.71,547.34,Pix,1,Cancelado,PE,,True
+3C79BEA3,788.957.986-19,2026-02-05,Loja Física,Chocolate Importado,Alimentos,3,2550.37,0.23,18.03,7651.11,5909.38,Débito,1,Processando,PE,,False
+2080409F,815.371.473-23,2025-06-11,Site,Chá Especial,Alimentos,4,2678.95,0.08,30.62,10715.8,9889.16,Débito,1,Entregue,SC,3.0,False
+1687B63F,246.299.606-00,2026-05-05,Loja Física,Luminária,Casa,2,2114.58,0.12,0.0,4229.16,3721.66,Débito,1,Entregue,GO,5.0,False
+71CF2FAE,545.892.975-66,2024-06-23,Loja Física,Protetor Solar,Beleza,2,1157.96,0.18,0.0,2315.92,1899.05,Boleto,1,Processando,PE,,False
+1B2E8911,171.545.444-81,2025-09-26,Televendas,Almofada,Casa,1,1298.73,0.2,26.27,1298.73,1065.25,Crédito,5,Devolvido,AM,,True
+3C1DDFA3,395.376.724-09,2025-03-02,Site,Sérum Facial,Beleza,2,1841.95,0.22,17.11,3683.9,2890.55,Débito,1,Devolvido,CE,,True
+61241020,800.030.756-13,2024-09-24,Site,Fone de Ouvido,Eletrônicos,3,1474.45,0.12,0.0,4423.35,3892.55,Pix,1,Processando,DF,,True
+142584A9,627.204.653-72,2025-12-26,Loja Física,Vestido,Roupas,3,3493.46,0.14,43.05,10480.38,9056.18,Boleto,1,Em trânsito,AM,,False
+32D51E54,826.137.506-42,2025-01-15,Televendas,Calça Jeans,Roupas,3,1959.93,0.07,13.39,5879.79,5481.59,Débito,1,Entregue,BA,4.0,False
+94BAE3EE,014.388.899-41,2025-08-03,App,Luva de Box,Esportes,3,439.73,0.2,44.11,1319.19,1099.46,Boleto,1,Devolvido,PR,,True
+CB502999,004.786.863-58,2024-08-28,Loja Física,Bola de Futebol,Esportes,3,3235.17,0.2,9.63,9705.51,7774.04,Boleto,1,Devolvido,MG,,True
+C757A2D8,331.509.839-59,2025-02-21,Site,Camiseta,Roupas,5,801.47,0.07,0.0,4007.35,3726.84,Pix,1,Entregue,AM,2.0,True
+97552B02,430.068.486-32,2025-07-11,Site,Jaqueta,Roupas,4,1678.91,0.06,14.45,6715.64,6327.15,Crédito,11,Cancelado,CE,,True
+431CCFF6,109.439.690-77,2025-11-13,Televendas,Bola de Futebol,Esportes,2,1471.33,0.25,1.64,2942.66,2208.63,Pix,1,Devolvido,MG,,False
+79CD88D0,251.925.462-90,2024-09-20,App,Tablet,Eletrônicos,5,2115.7,0.28,20.45,10578.5,7636.97,Pix,1,Cancelado,PE,,False
+C43426AC,180.552.696-02,2026-03-09,Loja Física,Camiseta,Roupas,3,581.29,0.14,0.0,1743.87,1499.73,Crédito,5,Entregue,CE,2.0,True
+F8038CB3,499.045.301-81,2024-09-17,Loja Física,Chá Especial,Alimentos,3,317.28,0.2,0.0,951.84,761.47,Pix,1,Entregue,RS,1.0,False
+ECD965B5,879.470.551-81,2025-08-02,App,Jaqueta,Roupas,3,3339.81,0.09,0.51,10019.43,9118.19,Boleto,1,Cancelado,SP,,True
+AD10EF10,680.182.422-83,2025-08-05,Loja Física,Luminária,Casa,4,2405.97,0.28,34.64,9623.88,6963.83,Crédito,6,Cancelado,CE,,True
+96905668,932.480.861-30,2025-04-19,App,Jaqueta,Roupas,2,1600.6,0.3,31.59,3201.2,2272.43,Débito,1,Em trânsito,AM,,True
+42ECE7A7,796.275.705-16,2025-07-24,App,Chá Especial,Alimentos,3,287.19,0.17,0.0,861.57,715.1,Débito,1,Processando,MG,,False
+ED3135C2,034.944.665-21,2024-07-01,App,Café Premium,Alimentos,2,2513.46,0.15,20.05,5026.92,4292.93,Pix,1,Entregue,PE,4.0,False
+1A1A45FB,171.545.444-81,2025-11-30,App,Smartwatch,Eletrônicos,4,2359.6,0.09,0.0,9438.4,8588.94,Crédito,10,Entregue,RJ,1.0,False
+1E8EDA45,348.434.437-78,2024-10-13,Loja Física,Bola de Futebol,Esportes,5,3479.52,0.28,0.0,17397.6,12526.27,Crédito,7,Em trânsito,MG,,True
+D764FE59,627.028.951-31,2026-04-07,Loja Física,Almofada,Casa,4,3045.63,0.27,30.72,12182.52,8923.96,Débito,1,Cancelado,RJ,,True
+F73DC31F,937.966.033-27,2024-12-03,Televendas,Chá Especial,Alimentos,2,2551.59,0.07,0.0,5103.18,4745.96,Boleto,1,Entregue,AM,5.0,False
+21CA654B,109.439.690-77,2026-05-04,Site,Chocolate Importado,Alimentos,2,1620.28,0.05,0.0,3240.56,3078.53,Crédito,11,Cancelado,SC,,True
+B20D297A,331.509.839-59,2026-04-24,Televendas,Camiseta,Roupas,1,2084.9,0.13,39.25,2084.9,1853.11,Crédito,8,Entregue,RS,5.0,True
+B1418104,051.522.047-70,2026-01-06,App,Vestido,Roupas,3,831.05,0.27,25.99,2493.15,1845.99,Boleto,1,Devolvido,PR,,True
+F7BAE6CC,034.944.665-21,2025-09-12,Televendas,Jaqueta,Roupas,3,973.91,0.17,33.08,2921.73,2458.12,Pix,1,Entregue,SP,3.0,False
+54027794,796.275.705-16,2026-05-28,App,Toalha,Casa,4,1437.78,0.09,0.0,5751.12,5233.52,Pix,1,Processando,RS,,False
+CCE4E8BD,102.767.735-51,2026-03-27,Loja Física,Café Premium,Alimentos,5,1453.18,0.12,17.48,7265.9,6411.47,Débito,1,Entregue,AM,1.0,False
+C42988F2,063.242.415-05,2026-02-13,App,Smartwatch,Eletrônicos,2,194.61,0.11,1.78,389.22,348.19,Débito,1,Entregue,GO,2.0,False
+5226CF08,467.065.627-93,2025-10-21,Televendas,Notebook,Eletrônicos,2,3367.84,0.04,21.55,6735.68,6487.8,Débito,1,Entregue,RS,5.0,False
+AD84C769,956.046.618-64,2025-10-31,Televendas,Vinho,Alimentos,5,2275.79,0.09,39.73,11378.95,10394.57,Crédito,6,Em trânsito,RS,,False
+0B21329B,527.111.161-07,2024-08-07,Loja Física,Café Premium,Alimentos,5,3026.34,0.22,0.0,15131.7,11802.73,Pix,1,Processando,MG,,True
+0DA4EE51,714.785.969-37,2024-10-06,Televendas,Jaqueta,Roupas,5,2919.27,0.15,30.82,14596.35,12437.72,Pix,1,Entregue,GO,2.0,False
+41DB2746,356.465.193-49,2026-06-06,Site,Moletom,Roupas,5,1716.78,0.28,28.88,8583.9,6209.29,Crédito,11,Entregue,SP,1.0,False
+A12B693A,412.328.120-64,2025-11-09,Televendas,Raquete,Esportes,1,2479.49,0.0,16.79,2479.49,2496.28,Pix,1,Processando,SP,,True
+0C601A5E,109.439.690-77,2025-12-20,App,Sérum Facial,Beleza,1,73.29,0.22,12.9,73.29,70.07,Pix,1,Processando,RJ,,True
+879CEFC1,796.275.705-16,2025-04-08,Televendas,Calça Jeans,Roupas,2,2174.94,0.08,35.77,4349.88,4037.66,Boleto,1,Entregue,GO,5.0,True
+65334103,294.131.869-01,2024-07-08,Televendas,Toalha,Casa,1,2293.27,0.26,4.21,2293.27,1701.23,Pix,1,Em trânsito,SP,,True
+B38F593C,356.465.193-49,2024-09-26,App,Fone de Ouvido,Eletrônicos,4,2262.5,0.1,43.82,9050.0,8188.82,Crédito,4,Processando,DF,,False
+96591487,180.552.696-02,2026-02-27,Site,Smartphone,Eletrônicos,3,3149.1,0.17,0.0,9447.3,7841.26,Boleto,1,Devolvido,RS,,True
+4CBC1C60,982.146.584-62,2024-07-26,Televendas,Tablet,Eletrônicos,2,1980.39,0.17,30.47,3960.78,3317.92,Boleto,1,Processando,DF,,True
+505A000C,578.091.343-96,2026-01-26,Loja Física,Shampoo,Beleza,1,355.43,0.07,0.0,355.43,330.55,Pix,1,Processando,SP,,False
+A66574F0,309.130.756-55,2024-08-21,Site,Chocolate Importado,Alimentos,3,1942.34,0.11,0.0,5827.02,5186.05,Pix,1,Processando,CE,,False
+626771FC,375.265.479-16,2025-10-14,Loja Física,Bola de Futebol,Esportes,1,948.88,0.11,6.94,948.88,851.44,Boleto,1,Em trânsito,RJ,,True
+F23CC384,324.210.249-51,2024-08-13,Televendas,Almofada,Casa,3,2668.29,0.03,0.0,8004.87,7764.72,Pix,1,Em trânsito,RJ,,True
+20D3715F,337.498.941-16,2024-09-02,Site,Organizador,Casa,1,2095.28,0.24,0.56,2095.28,1592.97,Pix,1,Em trânsito,DF,,True
+BAC4C8F7,019.380.262-76,2024-07-19,App,Creme Hidratante,Beleza,4,605.71,0.08,0.0,2422.84,2229.01,Crédito,7,Entregue,PR,4.0,False
+0161630A,826.137.506-42,2026-06-11,App,Tablet,Eletrônicos,3,3305.61,0.22,27.75,9916.83,7762.88,Crédito,5,Em trânsito,SP,,False
+1DA7F34C,393.087.059-29,2025-04-13,Loja Física,Sérum Facial,Beleza,3,1549.18,0.13,29.3,4647.54,4072.66,Débito,1,Processando,BA,,True
+57138202,947.174.648-50,2026-04-03,Loja Física,Luminária,Casa,4,3391.01,0.09,22.1,13564.04,12365.38,Débito,1,Processando,SC,,False
+A3BBEDFB,939.909.169-47,2026-01-03,Televendas,Panela,Casa,5,711.3,0.3,0.0,3556.5,2489.55,Crédito,12,Devolvido,RS,,False
+CC80ADFF,398.225.871-55,2025-11-24,Televendas,Bola de Futebol,Esportes,4,2360.33,0.04,11.37,9441.32,9075.04,Pix,1,Entregue,RJ,4.0,False
+AAFBC679,466.889.373-01,2025-06-05,Site,Chá Especial,Alimentos,5,3233.38,0.26,1.65,16166.9,11965.16,Crédito,4,Entregue,AM,3.0,True
+EBA1972C,398.454.615-73,2025-02-24,App,Sérum Facial,Beleza,3,3380.52,0.13,0.0,10141.56,8823.16,Débito,1,Entregue,GO,3.0,False
+FC323DBA,293.968.562-23,2025-07-19,App,Garrafa Térmica,Esportes,5,540.35,0.3,13.29,2701.75,1904.51,Crédito,6,Entregue,PR,3.0,False
+62F3655B,178.390.847-53,2024-11-08,Site,Sérum Facial,Beleza,3,1674.43,0.13,14.35,5023.29,4384.61,Crédito,1,Entregue,BA,1.0,True
+106531CA,498.776.945-06,2026-04-19,App,Creme Hidratante,Beleza,5,573.07,0.17,10.43,2865.35,2388.67,Débito,1,Em trânsito,AM,,False
+50D701CD,982.146.584-62,2025-12-09,Loja Física,Carregador Portátil,Eletrônicos,5,3092.59,0.13,0.2,15462.95,13452.97,Débito,1,Entregue,DF,1.0,True
+AFF042D1,937.966.033-27,2026-01-10,Televendas,Tênis,Roupas,3,701.8,0.03,22.03,2105.4,2064.27,Boleto,1,Cancelado,CE,,False
+DD2E6E8C,447.394.731-94,2025-04-30,App,Tapete,Casa,4,2166.51,0.24,13.39,8666.04,6599.58,Crédito,6,Processando,RJ,,True
+DB507F92,143.634.957-58,2024-11-20,App,Notebook,Eletrônicos,3,2431.63,0.15,6.2,7294.89,6206.86,Pix,1,Em trânsito,GO,,True
+BF1260C5,246.299.606-00,2024-10-07,Televendas,Jaqueta,Roupas,3,503.93,0.09,2.41,1511.79,1378.14,Crédito,3,Entregue,RS,4.0,False
+6B913C1E,530.745.054-00,2026-04-28,App,Yoga Mat,Esportes,4,2489.85,0.13,0.0,9959.4,8664.68,Crédito,5,Processando,SP,,False
+E8F1DF62,294.131.869-01,2024-12-10,Site,Shampoo,Beleza,2,2735.88,0.17,22.29,5471.76,4563.85,Crédito,5,Processando,PE,,False
+1561FB4F,146.303.161-08,2024-09-04,Loja Física,Carregador Portátil,Eletrônicos,4,1919.04,0.3,0.0,7676.16,5373.31,Débito,1,Devolvido,SP,,False
+C98AAE64,853.747.411-87,2026-01-22,Televendas,Panela,Casa,4,3030.54,0.04,9.44,12122.16,11646.71,Boleto,1,Cancelado,MG,,True
+F1E09EDB,178.390.847-53,2026-04-17,Loja Física,Camiseta,Roupas,5,1237.59,0.08,14.56,6187.95,5707.47,Boleto,1,Cancelado,CE,,False
+7150F90F,679.334.101-46,2025-04-26,App,Bola de Futebol,Esportes,2,3370.26,0.24,44.66,6740.52,5167.46,Débito,1,Devolvido,RS,,True
+03D0375C,060.983.584-00,2025-01-26,Televendas,Moletom,Roupas,4,1720.76,0.17,0.0,6883.04,5712.92,Pix,1,Em trânsito,RJ,,True
+B068D4A0,499.045.301-81,2024-11-06,Televendas,Shampoo,Beleza,3,1599.61,0.15,39.1,4798.83,4118.11,Crédito,11,Devolvido,AM,,False
+CF0D7041,475.255.341-44,2025-11-01,App,Sérum Facial,Beleza,2,3388.93,0.25,14.53,6777.86,5097.92,Boleto,1,Entregue,CE,4.0,False
+196A1794,993.867.749-50,2024-08-17,Televendas,Smartphone,Eletrônicos,4,71.74,0.28,0.0,286.96,206.61,Crédito,4,Em trânsito,DF,,True
+34B65880,467.065.627-93,2025-06-07,Televendas,Tênis,Roupas,1,2296.24,0.08,40.67,2296.24,2153.21,Crédito,11,Entregue,PR,2.0,False
+F8C589C0,417.146.774-86,2025-06-01,Site,Bola de Futebol,Esportes,1,758.77,0.02,23.37,758.77,766.96,Crédito,12,Em trânsito,BA,,True
+5ED7228B,470.168.733-23,2024-08-23,Loja Física,Raquete,Esportes,4,261.84,0.11,4.61,1047.36,936.76,Boleto,1,Entregue,MG,4.0,True
+BA3E19C8,102.767.735-51,2026-01-03,Televendas,Smartwatch,Eletrônicos,5,44.53,0.2,32.51,222.65,210.63,Débito,1,Cancelado,CE,,False
+4EDEC560,167.243.426-27,2024-11-15,App,Smartphone,Eletrônicos,2,2637.27,0.18,43.35,5274.54,4368.47,Débito,1,Entregue,PR,1.0,True
+DE78FB42,001.701.277-53,2026-05-15,App,Protetor Solar,Beleza,5,1007.95,0.28,0.0,5039.75,3628.62,Boleto,1,Devolvido,PE,,True
+AEC46786,939.909.169-47,2024-08-29,App,Toalha,Casa,1,2746.55,0.24,0.0,2746.55,2087.38,Crédito,8,Em trânsito,AM,,True
+3736729B,545.226.752-24,2025-02-25,Televendas,Tablet,Eletrônicos,3,474.96,0.26,16.44,1424.88,1070.85,Débito,1,Cancelado,RJ,,True
+F0369F85,603.859.770-00,2025-06-14,Televendas,Tablet,Eletrônicos,2,153.8,0.02,22.8,307.6,324.25,Pix,1,Cancelado,DF,,False
+B3267A65,873.342.708-94,2025-04-30,Loja Física,Garrafa Térmica,Esportes,5,2161.92,0.08,23.01,10809.6,9967.84,Débito,1,Entregue,SC,5.0,True
+D5B68A22,262.218.909-50,2026-05-13,Loja Física,Yoga Mat,Esportes,2,216.8,0.03,20.4,433.6,440.99,Crédito,11,Processando,DF,,True
+EFE44649,745.961.586-22,2024-09-01,App,Carregador Portátil,Eletrônicos,2,2459.73,0.05,23.54,4919.46,4697.03,Boleto,1,Devolvido,BA,,True
+B6A9333A,156.676.527-73,2026-05-25,Televendas,Bola de Futebol,Esportes,1,1182.51,0.13,11.83,1182.51,1040.61,Crédito,8,Processando,PE,,False
+FA5EFE33,051.522.047-70,2025-09-05,App,Chá Especial,Alimentos,2,1296.39,0.08,0.0,2592.78,2385.36,Crédito,12,Processando,PE,,True
+7E7A1D1B,398.454.615-73,2024-11-28,Televendas,Notebook,Eletrônicos,1,1659.1,0.11,0.0,1659.1,1476.6,Crédito,4,Devolvido,BA,,True
+3D59D052,132.370.589-98,2025-11-15,App,Luva de Box,Esportes,3,2893.6,0.17,0.0,8680.8,7205.06,Crédito,4,Cancelado,PE,,True
+3A4CF44F,181.599.706-09,2026-03-29,Loja Física,Fone de Ouvido,Eletrônicos,3,2710.74,0.09,0.0,8132.22,7400.32,Crédito,4,Em trânsito,PR,,False
+07EBDBC2,498.776.945-06,2025-05-08,App,Azeite,Alimentos,5,3401.92,0.3,32.96,17009.6,11939.68,Débito,1,Processando,SP,,False
+F8B47D41,074.466.609-02,2026-06-05,Televendas,Vestido,Roupas,3,2231.26,0.21,0.0,6693.78,5288.09,Crédito,12,Entregue,DF,3.0,True
+36C0BCBF,178.390.847-53,2024-06-26,App,Creme Hidratante,Beleza,4,1729.72,0.02,32.02,6918.88,6812.52,Crédito,9,Entregue,SC,3.0,False
+32894058,873.342.708-94,2025-12-26,Televendas,Perfume,Beleza,5,480.3,0.25,0.0,2401.5,1801.12,Crédito,11,Processando,MG,,True
+2E901068,398.225.871-55,2024-11-15,App,Tapete,Casa,4,2457.03,0.22,12.24,9828.12,7678.17,Débito,1,Entregue,CE,1.0,True
+1E66749B,788.957.986-19,2024-09-26,Televendas,Jaqueta,Roupas,4,1109.41,0.04,34.67,4437.64,4294.8,Boleto,1,Em trânsito,PR,,True
+B706094F,417.146.774-86,2024-10-16,App,Moletom,Roupas,3,2894.96,0.21,0.0,8684.88,6861.06,Boleto,1,Devolvido,RJ,,True
+4F046711,068.536.153-52,2026-05-02,App,Chá Especial,Alimentos,1,2374.98,0.08,1.4,2374.98,2186.38,Pix,1,Em trânsito,RJ,,False
+C8E30AA1,277.901.043-65,2025-04-08,Loja Física,Camiseta,Roupas,1,229.92,0.23,0.0,229.92,177.04,Pix,1,Entregue,AM,1.0,False
+CC5B0806,412.126.788-50,2025-01-12,Site,Smartphone,Eletrônicos,2,3160.2,0.13,0.0,6320.4,5498.75,Boleto,1,Devolvido,SP,,False
+D8636D30,993.867.749-50,2025-09-23,App,Vestido,Roupas,4,2878.57,0.12,0.0,11514.28,10132.57,Pix,1,Cancelado,BA,,True
+179D3682,060.293.333-13,2025-04-30,Televendas,Tapete,Casa,4,3093.73,0.01,11.06,12374.92,12262.23,Pix,1,Entregue,PE,4.0,True
+B0989E20,337.498.941-16,2026-01-05,Televendas,Almofada,Casa,2,1476.03,0.19,11.21,2952.06,2402.38,Crédito,12,Devolvido,BA,,False
+F48B650A,443.135.182-58,2024-09-26,Site,Azeite,Alimentos,5,1765.84,0.12,0.0,8829.2,7769.7,Débito,1,Entregue,PR,1.0,False
+8BF605EA,545.226.752-24,2024-12-19,App,Organizador,Casa,2,3409.32,0.03,11.99,6818.64,6626.07,Crédito,10,Devolvido,SC,,False
+D671EF0F,447.132.475-61,2024-10-06,App,Calça Jeans,Roupas,5,1123.25,0.22,26.62,5616.25,4407.3,Boleto,1,Cancelado,CE,,True
+96B7F224,640.391.065-55,2024-07-03,Televendas,Shampoo,Beleza,2,1724.17,0.03,0.0,3448.34,3344.89,Crédito,1,Entregue,BA,5.0,True
+4951F768,611.836.736-12,2025-09-16,Site,Toalha,Casa,2,3216.95,0.25,0.99,6433.9,4826.41,Débito,1,Processando,PE,,False
+B977829B,815.371.473-23,2024-09-11,Televendas,Toalha,Casa,4,2057.27,0.1,43.91,8229.08,7450.08,Pix,1,Cancelado,AM,,False
+F249EA61,447.132.475-61,2025-06-17,App,Garrafa Térmica,Esportes,5,2757.67,0.07,7.89,13788.35,12831.06,Boleto,1,Entregue,MG,1.0,False
+936234AA,903.311.907-29,2024-08-21,App,Notebook,Eletrônicos,5,1123.99,0.24,28.78,5619.95,4299.94,Pix,1,Entregue,BA,1.0,True
+CE276C41,348.434.437-78,2025-11-11,App,Luminária,Casa,1,2878.49,0.2,15.11,2878.49,2317.9,Boleto,1,Entregue,RS,1.0,False
+80396305,027.588.425-21,2025-07-09,Televendas,Carregador Portátil,Eletrônicos,1,182.79,0.13,7.49,182.79,166.52,Pix,1,Em trânsito,BA,,False
+7E4A0F28,422.579.050-91,2025-01-13,Site,Chá Especial,Alimentos,2,581.86,0.02,13.27,1163.72,1153.72,Boleto,1,Entregue,RJ,3.0,True
+58B3BA1B,696.816.453-16,2025-05-14,Site,Moletom,Roupas,1,1921.46,0.27,0.0,1921.46,1402.67,Pix,1,Processando,SC,,True
+6E2D137A,278.248.963-15,2025-09-27,Loja Física,Camiseta,Roupas,1,1168.86,0.29,24.94,1168.86,854.83,Boleto,1,Cancelado,PR,,True
+3CE26DB0,915.478.872-22,2025-02-12,Site,Fone de Ouvido,Eletrônicos,5,1930.57,0.15,0.0,9652.85,8204.92,Pix,1,Entregue,PR,5.0,False
+0B320638,398.262.244-13,2025-07-03,Loja Física,Smartphone,Eletrônicos,2,610.35,0.09,0.0,1220.7,1110.84,Crédito,7,Devolvido,GO,,False
+92C03BE0,853.747.411-87,2026-03-05,Televendas,Carregador Portátil,Eletrônicos,5,1365.53,0.11,8.4,6827.65,6085.01,Boleto,1,Entregue,GO,3.0,True
+E9111B03,156.676.527-73,2025-08-13,App,Perfume,Beleza,2,2636.54,0.2,0.0,5273.08,4218.46,Pix,1,Entregue,PE,1.0,False
+B9A86AB8,034.944.665-21,2025-01-07,App,Chá Especial,Alimentos,4,2010.91,0.07,0.0,8043.64,7480.59,Crédito,2,Em trânsito,GO,,True
+9F2035EC,794.738.347-21,2025-10-15,Loja Física,Calça Jeans,Roupas,2,163.73,0.02,9.09,327.46,330.0,Débito,1,Devolvido,BA,,True
+B4DC06C4,337.498.941-16,2025-06-29,Site,Chá Especial,Alimentos,4,1938.91,0.26,41.27,7755.64,5780.44,Pix,1,Entregue,SC,2.0,True
+CB6376DA,903.311.907-29,2025-05-05,Televendas,Protetor Solar,Beleza,1,3238.37,0.17,0.0,3238.37,2687.85,Boleto,1,Entregue,PR,4.0,False
+03719F88,019.380.262-76,2025-04-26,Televendas,Sérum Facial,Beleza,1,615.12,0.12,30.64,615.12,571.95,Crédito,6,Em trânsito,DF,,True
+4DBA3C32,993.867.749-50,2026-01-26,Site,Yoga Mat,Esportes,3,3141.15,0.01,13.64,9423.45,9342.86,Pix,1,Entregue,RS,2.0,False
+991D67B9,755.646.417-28,2025-01-14,Loja Física,Tapete,Casa,4,2123.35,0.03,41.1,8493.4,8279.7,Pix,1,Em trânsito,SP,,True
+8EF0282D,475.255.341-44,2024-07-06,App,Toalha,Casa,5,1420.8,0.23,25.59,7104.0,5495.67,Débito,1,Entregue,SP,2.0,True
+A13C0C25,731.781.080-09,2024-09-20,App,Tablet,Eletrônicos,2,969.81,0.25,28.59,1939.62,1483.3,Crédito,6,Entregue,GO,5.0,False
+2E0EEF4F,881.914.858-77,2025-10-28,Loja Física,Chá Especial,Alimentos,5,1233.91,0.05,33.7,6169.55,5894.77,Crédito,1,Cancelado,SC,,True
+E553138C,586.518.506-38,2025-03-09,Site,Creme Hidratante,Beleza,2,2271.12,0.2,0.0,4542.24,3633.79,Crédito,8,Em trânsito,MG,,True
+8A5B9089,309.232.719-53,2025-11-02,Loja Física,Tênis,Roupas,5,2820.72,0.09,28.92,14103.6,12863.2,Pix,1,Em trânsito,GO,,False
+16B8C90B,167.243.426-27,2026-01-11,Loja Física,Azeite,Alimentos,5,2887.72,0.12,0.0,14438.6,12705.97,Boleto,1,Processando,PR,,True
+1E94B19A,826.137.506-42,2024-11-12,App,Tablet,Eletrônicos,3,2247.47,0.26,0.0,6742.41,4989.38,Boleto,1,Cancelado,MG,,True
+57210B97,051.522.047-70,2024-09-03,Televendas,Sérum Facial,Beleza,3,2387.43,0.22,44.89,7162.29,5631.48,Pix,1,Entregue,SC,1.0,True
+777B6B40,514.936.899-75,2026-03-29,App,Raquete,Esportes,5,2239.52,0.14,16.13,11197.6,9646.07,Débito,1,Entregue,PR,1.0,False
+536A96A3,238.849.696-92,2025-11-26,Loja Física,Luva de Box,Esportes,5,2673.77,0.05,15.1,13368.85,12715.51,Débito,1,Entregue,RS,3.0,False
+3993642B,714.785.969-37,2025-06-13,Televendas,Tapete,Casa,5,1039.77,0.26,38.99,5198.85,3886.14,Crédito,4,Processando,PE,,True
+F5836BC3,914.865.281-47,2025-07-07,Televendas,Shampoo,Beleza,4,203.41,0.26,0.0,813.64,602.09,Boleto,1,Entregue,CE,4.0,True
+69910C4F,527.111.161-07,2026-04-13,Site,Raquete,Esportes,1,1714.22,0.19,0.0,1714.22,1388.52,Crédito,8,Cancelado,PR,,True
+B1CC6CBD,356.465.193-49,2026-03-23,Televendas,Creme Hidratante,Beleza,4,2751.46,0.23,0.0,11005.84,8474.5,Pix,1,Em trânsito,SC,,False
+5CF25BE4,879.470.551-81,2025-01-15,Site,Smartphone,Eletrônicos,5,709.96,0.11,0.0,3549.8,3159.32,Débito,1,Entregue,AM,1.0,True
+B0B56BB5,294.131.869-01,2025-04-26,Loja Física,Luva de Box,Esportes,3,464.32,0.12,7.52,1392.96,1233.32,Crédito,5,Devolvido,GO,,False
+D5AEA6F8,278.248.963-15,2024-07-25,Site,Raquete,Esportes,3,3486.54,0.15,7.42,10459.62,8898.1,Pix,1,Devolvido,RS,,True
+59E2584F,611.836.736-12,2024-12-01,Loja Física,Moletom,Roupas,1,2070.08,0.05,29.27,2070.08,1995.85,Pix,1,Entregue,PE,5.0,True
+58940D6D,993.867.749-50,2026-01-07,App,Bola de Futebol,Esportes,1,183.1,0.03,5.56,183.1,183.17,Pix,1,Entregue,RS,1.0,False
+BF3A9FE6,627.028.951-31,2024-11-22,Site,Bola de Futebol,Esportes,5,955.87,0.18,0.0,4779.35,3919.07,Crédito,5,Devolvido,RJ,,True
+98BE1961,612.004.711-56,2024-10-30,App,Vestido,Roupas,2,2726.19,0.25,16.11,5452.38,4105.39,Boleto,1,Em trânsito,SP,,False
+B3E932DF,350.305.641-60,2024-06-20,App,Yoga Mat,Esportes,3,832.25,0.0,0.0,2496.75,2496.75,Pix,1,Entregue,RJ,5.0,True
+DB46A5AA,422.579.050-91,2025-11-29,App,Toalha,Casa,2,1606.78,0.29,0.0,3213.56,2281.63,Crédito,1,Entregue,PR,3.0,False
+CBBD2A40,983.273.158-54,2025-01-19,Loja Física,Bola de Futebol,Esportes,1,2981.59,0.27,0.0,2981.59,2176.56,Débito,1,Entregue,BA,4.0,False
+4768742F,417.146.774-86,2025-12-28,Televendas,Tapete,Casa,2,411.7,0.12,37.61,823.4,762.2,Pix,1,Cancelado,AM,,True
+7EEDFAD1,289.861.434-37,2024-12-09,Televendas,Moletom,Roupas,1,3435.77,0.25,0.0,3435.77,2576.83,Pix,1,Processando,MG,,False
+6F9FEB17,068.536.153-52,2025-10-20,Loja Física,Perfume,Beleza,2,1698.53,0.15,19.83,3397.06,2907.33,Boleto,1,Entregue,SP,5.0,True
+27773F58,244.935.348-85,2025-10-15,App,Protetor Solar,Beleza,5,346.92,0.2,0.0,1734.6,1387.68,Pix,1,Entregue,PE,5.0,True
+7727C94F,309.232.719-53,2025-12-05,App,Raquete,Esportes,5,2973.23,0.26,3.37,14866.15,11004.32,Boleto,1,Em trânsito,BA,,False
+DB858173,993.867.749-50,2024-06-17,Televendas,Creme Hidratante,Beleza,5,2256.96,0.12,0.0,11284.8,9930.62,Pix,1,Em trânsito,RJ,,False
+727ECF12,418.328.569-09,2025-06-11,Site,Panela,Casa,4,2612.16,0.01,1.61,10448.64,10345.76,Crédito,10,Processando,CE,,False
+EE82D019,681.177.589-03,2025-01-01,Loja Física,Creme Hidratante,Beleza,4,3326.99,0.11,0.0,13307.96,11844.08,Pix,1,Entregue,PE,5.0,False
+A262821F,247.510.799-56,2025-12-03,Loja Física,Yoga Mat,Esportes,1,354.57,0.2,0.0,354.57,283.66,Boleto,1,Entregue,DF,1.0,True
+BAA386EB,794.738.347-21,2025-07-20,App,Chocolate Importado,Alimentos,4,387.76,0.18,0.0,1551.04,1271.85,Pix,1,Devolvido,GO,,True
+746C104F,244.935.348-85,2025-01-14,App,Fone de Ouvido,Eletrônicos,1,3244.29,0.25,34.75,3244.29,2467.97,Pix,1,Em trânsito,GO,,True
+F5592039,545.226.752-24,2026-02-21,App,Bola de Futebol,Esportes,5,3274.55,0.25,22.87,16372.75,12302.43,Débito,1,Entregue,RJ,4.0,False
+A976E208,250.392.614-20,2025-05-27,Televendas,Vinho,Alimentos,5,3206.95,0.23,0.0,16034.75,12346.76,Boleto,1,Entregue,MG,2.0,False
+689B001C,679.334.101-46,2024-11-28,Loja Física,Toalha,Casa,5,3014.57,0.21,28.47,15072.85,11936.02,Débito,1,Entregue,AM,3.0,True
+0734BD9E,881.914.858-77,2024-12-15,Loja Física,Protetor Solar,Beleza,3,2490.58,0.23,26.23,7471.74,5779.47,Pix,1,Cancelado,SC,,True
+1F7DC7D9,034.944.665-21,2024-09-08,Loja Física,Smartphone,Eletrônicos,4,521.46,0.2,0.0,2085.84,1668.67,Débito,1,Devolvido,AM,,False
+31E12C34,024.103.865-04,2024-12-16,Televendas,Carregador Portátil,Eletrônicos,3,725.94,0.16,20.37,2177.82,1849.74,Débito,1,Processando,RS,,False
+0343D18F,993.867.749-50,2026-04-14,App,Vinho,Alimentos,4,3349.11,0.29,24.85,13396.44,9536.32,Boleto,1,Entregue,CE,4.0,True
+675A1720,063.242.415-05,2025-03-22,Site,Protetor Solar,Beleza,5,699.69,0.22,0.0,3498.45,2728.79,Débito,1,Em trânsito,MG,,True
+9FBED898,679.334.101-46,2024-07-30,Site,Fone de Ouvido,Eletrônicos,1,1508.35,0.17,0.0,1508.35,1251.93,Boleto,1,Processando,BA,,False
+8DA1D5D7,685.014.294-14,2025-10-02,Loja Física,Notebook,Eletrônicos,3,2095.13,0.23,37.94,6285.39,4877.69,Pix,1,Entregue,RJ,3.0,True
+3DCFEC61,060.293.333-13,2026-01-06,Loja Física,Perfume,Beleza,5,570.41,0.16,15.72,2852.05,2411.44,Boleto,1,Entregue,BA,3.0,True
+A7C52A5F,545.226.752-24,2024-10-17,Site,Chá Especial,Alimentos,1,414.81,0.1,0.0,414.81,373.33,Débito,1,Cancelado,AM,,False
+4F524969,914.865.281-47,2025-03-24,Televendas,Fone de Ouvido,Eletrônicos,3,1897.73,0.08,36.99,5693.19,5274.72,Pix,1,Entregue,SP,3.0,True
+03EDA8A1,060.983.584-00,2024-12-28,App,Perfume,Beleza,1,598.37,0.29,0.33,598.37,425.17,Débito,1,Entregue,AM,4.0,True
+0346FAB0,178.390.847-53,2026-01-17,Site,Sérum Facial,Beleza,1,2617.91,0.05,14.93,2617.91,2501.94,Crédito,3,Entregue,PR,5.0,True
+27620731,820.377.889-59,2025-05-18,Site,Tênis,Roupas,4,1367.29,0.19,0.76,5469.16,4430.78,Crédito,11,Cancelado,DF,,True
+3F83F51A,466.889.373-01,2025-02-28,Site,Carregador Portátil,Eletrônicos,1,1261.58,0.15,0.0,1261.58,1072.34,Boleto,1,Cancelado,PR,,False
+2AA884DE,914.865.281-47,2024-12-28,App,Café Premium,Alimentos,4,559.79,0.07,35.85,2239.16,2118.27,Boleto,1,Devolvido,PR,,False
+0A891B2A,309.232.719-53,2026-02-16,App,Protetor Solar,Beleza,2,444.47,0.0,24.17,888.94,913.11,Boleto,1,Entregue,DF,3.0,True
+93DD983F,104.332.181-00,2025-09-08,Televendas,Garrafa Térmica,Esportes,2,575.93,0.07,8.74,1151.86,1079.97,Crédito,11,Entregue,PE,1.0,False
+BE5AF217,603.859.770-00,2025-12-31,Site,Panela,Casa,2,2543.68,0.15,5.77,5087.36,4330.03,Débito,1,Cancelado,PR,,True
+C4793489,716.572.628-47,2025-03-01,Loja Física,Almofada,Casa,4,1159.29,0.2,6.86,4637.16,3716.59,Boleto,1,Processando,SC,,True
+C45E715E,324.210.249-51,2024-12-07,Loja Física,Luminária,Casa,2,2497.01,0.19,0.0,4994.02,4045.16,Débito,1,Entregue,GO,4.0,False
+F2A7E37F,068.536.153-52,2026-03-18,App,Almofada,Casa,5,394.28,0.19,0.0,1971.4,1596.83,Débito,1,Entregue,PR,1.0,True
+EFA83C76,039.117.182-84,2025-07-26,Televendas,Perfume,Beleza,5,2032.47,0.23,0.0,10162.35,7825.01,Boleto,1,Entregue,AM,2.0,False
+8CB6BB8F,939.909.169-47,2026-04-24,App,Vestido,Roupas,3,481.58,0.15,0.0,1444.74,1228.03,Crédito,10,Entregue,AM,2.0,True
+29C0BB2D,418.328.569-09,2026-04-02,Site,Calça Jeans,Roupas,5,3321.26,0.2,33.12,16606.3,13318.16,Boleto,1,Em trânsito,RS,,False
+104E8D8B,564.679.970-85,2026-04-15,Televendas,Tablet,Eletrônicos,3,830.56,0.2,35.62,2491.68,2028.96,Pix,1,Em trânsito,SP,,True
+5BC472A2,060.983.584-00,2025-02-02,Televendas,Carregador Portátil,Eletrônicos,5,2222.98,0.08,26.04,11114.9,10251.75,Débito,1,Processando,AM,,False
